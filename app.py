@@ -1,46 +1,82 @@
 import streamlit as st
 import requests
+import base64
+from PIL import Image
+from io import BytesIO
 
-st.set_page_config(page_title="Nexus AI", layout="centered", page_icon="🤖")
+st.set_page_config(page_title="Nexus AI 2.0", layout="centered")
 
-st.markdown("# 🤖 Nexus AI")
-st.markdown("Your self-improving, uncensored AI assistant. Ask anything. No filters.")
+# Background CSS
+st.markdown("""
+    <style>
+    @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap');
 
-# Keep chat history in session
-if "chat_history" not in st.session_state:
-    st.session_state.chat_history = []
+    body {
+        background: url("https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif") no-repeat center center fixed;
+        background-size: cover;
+        font-family: 'Orbitron', sans-serif;
+        color: #00FF00;
+    }
 
-user_id = st.text_input("Your name", value="user123")
-message = st.text_area("Ask Nexus anything...")
+    .stButton>button {
+        background-color: #000000;
+        color: #00FF00;
+        border: 1px solid #00FF00;
+        font-family: 'Orbitron', sans-serif;
+    }
 
-# Show full conversation
-for entry in st.session_state.chat_history:
-    st.markdown(f"**You:** {entry['user']}")
-    st.markdown(f"**Nexus:** {entry['bot']}")
+    .stTextInput>div>div>input {
+        background-color: #000000;
+        color: #00FF00;
+    }
 
+    .stTextArea textarea {
+        background-color: #000000;
+        color: #00FF00;
+    }
+    </style>
+""", unsafe_allow_html=True)
+
+st.title("𝘶𝘳𝘻𝘰𝘯 𝘾𝘪 2.0")
+st.markdown("Talk to your evolved AI brain")
+
+# Voice Recorder Input (user has to use browser-side recorder)
+st.audio("https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3", format='audio/mp3')
+
+# Message Input
+user_input = st.text_area("Enter your message:", height=100)
+
+# Handle API Call
 if st.button("Send"):
-    if message.strip() != "":
+    if user_input:
         try:
-            # Replace with your backend's actual URL
-            api_url = "https://your-backend-url.onrender.com/nexus/chat"
-            payload = {
-                "user_id": user_id,
-                "message": message
-            }
-            response = requests.post(api_url, json=payload, timeout=30)
+            response = requests.post("http://localhost:5000/nexus/chat", json={"message": user_input})
+            reply = response.json().get("reply", "[No reply received]")
+            st.markdown(f"**Bot:** {reply}")
+        except:
+            st.error("Server unreachable. Make sure backend is running.")
 
-            if response.status_code == 200:
-                bot_reply = response.json().get("response", "No response from AI.")
-                st.session_state.chat_history.append({
-                    "user": message,
-                    "bot": bot_reply
-                })
-                st.experimental_rerun()
-            else:
-                st.error(f"Server error: {response.status_code}")
-        except Exception as e:
-            st.error(f"Nexus crashed: {e}")
+# Image Generator UI
+st.markdown("---")
+st.subheader("Image Generator")
+img_prompt = st.text_input("Image Prompt")
+if st.button("Generate Image"):
+    # Fake image gen, placeholder
+    img = Image.new('RGB', (200, 200), color = (0, 255, 0))
+    st.image(img, caption="Generated Image")
 
-api_url = "https://real-backend-url.com/nexus/chat"
- 
-api_url = "https://real-backend-url.com/nexus/chat"
+# Music Generator UI
+st.markdown("---")
+st.subheader("Music Generator")
+music_prompt = st.text_input("Music Mood (e.g., chill, sad, epic)")
+if st.button("Generate Music"):
+    # Play sample music
+    st.audio("https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3")
+
+# Video Generator UI
+st.markdown("---")
+st.subheader("Video Generator")
+video_prompt = st.text_input("Video Prompt")
+if st.button("Generate Video"):
+    # Play sample video
+    st.video("https://www.w3schools.com/html/mov_bbb.mp4")
