@@ -13,5 +13,4 @@ message = st.text_area("Your message")
 if st.button("Send"):
     if message.strip() != "":
         res = requests.post("http://127.0.0.1:8000/nexus/chat", json={"user_id": user_id, "message": message})
-        st.success("Nexus says:")
         st.markdown(res.json()['response'])
