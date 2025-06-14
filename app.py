@@ -40,3 +40,5 @@ if st.button("Send"):
                 st.error(f"Server error: {response.status_code}")
         except Exception as e:
             st.error(f"Nexus crashed: {e}")
+
+api_url = "https://your-backend-url.onrender.com/nexus/chat"
