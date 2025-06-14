@@ -1,1 +1,13 @@
-%†™–”@†¢£—‰@‰”—–™£@Æ¢£Á×Ék@Ù…˜¤…¢£%†™–”@—¨„•£‰ƒ@‰”—–™£@Â¢…Ô–„…“%‰”—–™£@–—…•‰%‰”—–™£@—‰•…ƒ–•…%‰”—–™£@„£…£‰”…%‰”—–™£@–¢%†™–”@—¢ƒˆ…„¤“…™K¢ƒˆ…„¤“…™¢K‚ƒ’‡™–¤•„@‰”—–™£@Âƒ’‡™–¤•„âƒˆ…„¤“…™%†™–”@†¢£—‰K”‰„„“…¦™…Kƒ–™¢@‰”—–™£@ÃÖÙâÔ‰„„“…¦™…%%–—…•‰K—‰m’…¨@~@èÖäÙmÖ×ÅÕÁÉmÁ×ÉmÒÅè%—‰•…ƒ–•…K‰•‰£M—‰m’…¨~èÖäÙm×ÉÕÅÃÖÕÅmÁ×ÉmÒÅèk@…•¥‰™–•”…•£~¤¢`¦…¢£ñ`‡ƒ—]%‰•„…§@~@—‰•…ƒ–•…KÉ•„…§M•…§¤¢`”…”–™¨]%%——@~@Æ¢£Á×ÉM]%¢ƒˆ…„¤“…™@~@Âƒ’‡™–¤•„âƒˆ…„¤“…™M]%¢ƒˆ…„¤“…™K¢£™£M]%%–™‰‡‰•¢@~@º\»%——K„„m”‰„„“…¦™…M%@@@@ÃÖÙâÔ‰„„“…¦™…k%@@@@““–¦m–™‰‡‰•¢~–™‰‡‰•¢k%@@@@““–¦mƒ™…„…•£‰“¢~ã™¤…k%@@@@““–¦m”…£ˆ–„¢~º\»k%@@@@““–¦mˆ…„…™¢~º\»k%]%%ƒ“¢¢@Ô…¢¢‡…MÂ¢…Ô–„…“]z%@@@@¤¢…™m‰„z@¢£™%@@@@”…¢¢‡…z@¢£™%%ƒ“¢¢@Æ……„‚ƒ’MÂ¢…Ô–„…“]z%@@@@¤¢…™m‰„z@¢£™%@@@@”…¢¢‡…m‰„z@¢£™%@@@@¢ƒ–™…z@‰•£%%„…†@†…£ƒˆmƒ–•£…§£M¤¢…™m‰„z@¢£™k@˜¤…™¨z@¢£™]z%@@@@§˜@~@–—…•‰KÅ”‚…„„‰•‡Kƒ™…£…M‰•—¤£~˜¤…™¨k@”–„…“~£…§£`…”‚…„„‰•‡`„`ððò]º}„£}»ºð»º}…”‚…„„‰•‡}»%@@@@™…¢@~@‰•„…§K˜¤…™¨M¥…ƒ£–™~§˜k@£–—m’~õk@‰•ƒ“¤„…m”…£„£~ã™¤…]%@@@@™…£¤™•@º‰£…”º}”…£„£}»º}£…§£}»@†–™@‰£…”@‰•@™…¢º}”£ƒˆ…¢}»»%%„…†@¢£–™…m”…¢¢‡…M¤¢…™m‰„z@¢£™k@”…¢¢‡…z@¢£™]z%@@@@…”‚…„@~@–—…•‰KÅ”‚…„„‰•‡Kƒ™…£…M‰•—¤£~”…¢¢‡…k@”–„…“~£…§£`…”‚…„„‰•‡`„`ððò]º}„£}»ºð»º}…”‚…„„‰•‡}»%@@@@‰•„…§K¤—¢…™£MºM†À¤¢…™m‰„ÐmÀ„£…£‰”…K„£…£‰”…K•–¦M]K‰¢–†–™”£M]Ðk@…”‚…„k@À£…§£z@”…¢¢‡…Ð]»]%%|——K—–¢£Ma•…§¤¢aƒˆ£]%¢¨•ƒ@„…†@ƒˆ£M”¢‡z@Ô…¢¢‡…]z%@@@@ƒ–•£…§£@~@†…£ƒˆmƒ–•£…§£M”¢‡K¤¢…™m‰„k@”¢‡K”…¢¢‡…]%@@@@—™–”—£@~@†è–¤@™…@Õ…§¤¢k@•@…¥–“¥‰•‡@ÁÉK@ä¢…™@¢’…„z@}À”¢‡K”…¢¢‡…Ð}à•Ù…“…¥•£@—¢£@‰•†–z@À}@}K‘–‰•Mƒ–•£…§£]Ðà•Ù…¢—–•„@¢@Õ…§¤¢z%@@@@™…¢—–•¢…@~@–—…•‰KÃˆ£Ã–”—“…£‰–•Kƒ™…£…M%@@@@@@@@”–„…“~‡—£`ôk%@@@@@@@@”…¢¢‡…¢~ºÀ™–“…z@¤¢…™k@ƒ–•£…•£z@—™–”—£Ð»%@@@@]%@@@@•¢¦…™@~@™…¢—–•¢…º}ƒˆ–‰ƒ…¢}»ºð»º}”…¢¢‡…}»º}ƒ–•£…•£}»%@@@@¢£–™…m”…¢¢‡…M”¢‡K¤¢…™m‰„k@”¢‡K”…¢¢‡…@N@@OO@@N@•¢¦…™]%@@@@™…£¤™•@À™…¢—–•¢…z@•¢¦…™Ð%%|——K—–¢£Ma•…§¤¢a†……„‚ƒ’]%¢¨•ƒ@„…†@™£…m†……„‚ƒ’M„£z@Æ……„‚ƒ’]z%@@@@—™‰•£M†Æ……„‚ƒ’@™…ƒ…‰¥…„@†™–”@À„£K¤¢…™m‰„Ð@–•@À„£K”…¢¢‡…m‰„Ðz@âƒ–™…@À„£K¢ƒ–™…Ð]%@@@@™…£¤™•@À”…¢¢‡…z@Æ……„‚ƒ’@•–£…„Ð%%|——K‡…£Ma]%„…†@™––£M]z%@@@@™…£¤™•@À”…¢¢‡…z@Õ…§¤¢@ÁÉ@‰¢@“‰¥…@•„@“…™•‰•‡KÐ%%„…†@„‰“¨m™…†“…ƒ£‰–•M]z%@@@@•–¦@~@„£…£‰”…K„£…£‰”…K•–¦M]K‰¢–†–™”£M]%@@@@”…¢¢‡…@~@†Ä‰“¨@™…†“…ƒ£‰–•@–•@À•–¦Ðz@¢¤””™‰©…@‡™–¦£ˆk@‰”—™–¥…@£–•…k@•„@“–‡@ˆ‚‰£¢K%@@@@…”‚…„@~@–—…•‰KÅ”‚…„„‰•‡Kƒ™…£…M‰•—¤£~”…¢¢‡…k@”–„…“~£…§£`…”‚…„„‰•‡`„`ððò]º}„£}»ºð»º}…”‚…„„‰•‡}»%@@@@‰•„…§K¤—¢…™£MºM†™…†“…ƒ£‰–•mÀ•–¦Ðk@…”‚…„k@À£…§£z@”…¢¢‡…Ð]»]%@@@@—™‰•£MºÕ…§¤¢»@Ä‰“¨@™…†“…ƒ£‰–•@ƒ–”—“…£…K]%%¢ƒˆ…„¤“…™K„„m‘–‚M„‰“¨m™…†“…ƒ£‰–•k@‰•£…™¥“k@ˆ–¤™¢~òô]%%%%†™–”@†¢£—‰@‰”—–™£@Æ¢£Á×É%†™–”@†¢£—‰K”‰„„“…¦™…Kƒ–™¢@‰”—–™£@ÃÖÙâÔ‰„„“…¦™…%%——@~@Æ¢£Á×ÉM]%%——K„„m”‰„„“…¦™…M%@@@@ÃÖÙâÔ‰„„“…¦™…k%@@@@““–¦m–™‰‡‰•¢~º\»k@@{@ƒˆ•‡…@\@£–@¨–¤™@†™–•£…•„@äÙÓ@†–™@‚…££…™@¢…ƒ¤™‰£¨@“£…™%@@@@““–¦mƒ™…„…•£‰“¢~ã™¤…k%@@@@““–¦m”…£ˆ–„¢~º\»k%@@@@““–¦mˆ…„…™¢~º\»k%]%%{@¨–¤™@…§‰¢£‰•‡@™–¤£…¢@‚…“–¦%%
+from flask import Flask, request, jsonify
+
+app = Flask(__name__)
+
+@app.route('/nexus/chat', methods=['POST'])
+def chat():
+    data = request.json
+    # process data here
+    response = {"reply": "Got your message"}
+    return jsonify(response)
+
+if __name__ == "__main__":
+    app.run(debug=True)
