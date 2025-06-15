@@ -81,3 +81,9 @@ if st.button("Generate Video"):
     # Play sample video
     st.video("https://www.w3schools.com/html/mov_bbb.mp4")
 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
+payload = {
+    "user_id": user_id,
+    "message": message.strip(),
+    "mode": "chat",  # optional, add mode param if backend supports it
+    "length": 300,   # or whatever setting makes it behave better
+}
