@@ -15,3 +15,10 @@ def chat():
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000, debug=True)
 curl -X POST http://localhost:5000/nexus/chat -H "Content-Type: application/json" -d '{"message":"hello"}'
+@app.post("/nexus/chat")
+def chat_route(data: dict):
+    user_id = data["user_id"]
+    message = data["message"]
+    # your AI logic
+    return {"response": "Hi, this is Nexus."}
+ 
